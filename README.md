@@ -1,1 +1,1 @@
-# Seed for a simple project with Grunt, Bootstrap, Sass setup
+Seed for a simple project with Grunt, Bootstrap, Sass setup
