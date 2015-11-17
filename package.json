@@ -1,10 +1,10 @@
 {
-  "name": "Move",
+  "name": "ProjectName",
   "version": "0.0.1",
-  "description": "Move - UX Assignment 1",
+  "description": "Description of your project",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Diliara/Move.git"
+    "url": "git://github.com/Diliara/GruntSeed.git"
   },
   "main": "index.html",
   "scripts": {
