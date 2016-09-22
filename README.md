@@ -5,3 +5,7 @@ Seed for a simple project with [Grunt](http://gruntjs.com/getting-started), [Twi
 	  npm install grunt --save-dev
 
 - update cdns
+
+- test on
+
+		http://localhost:9090/#/
